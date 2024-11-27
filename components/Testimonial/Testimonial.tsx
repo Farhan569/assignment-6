@@ -26,9 +26,9 @@ const Testimonial = () => {
             />
             <div className="flex flex-col gap-6">
               <p className="text-lg">
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.&quot;
               </p>
               <div className="flex gap-5">
                 <Image
@@ -54,9 +54,9 @@ const Testimonial = () => {
             />
             <div className="flex flex-col gap-6">
               <p className="text-lg">
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.&quot;
               </p>
               <div className="flex gap-5">
                 <Image
@@ -82,9 +82,9 @@ const Testimonial = () => {
             />
             <div className="flex flex-col gap-6">
               <p className="text-lg">
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Suspendisse varius enim in eros elementum tristique. Duis
-                cursus, mi quis viverra ornare."
+                cursus, mi quis viverra ornare.&quot;
               </p>
               <div className="flex gap-5">
                 <Image

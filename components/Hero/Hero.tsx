@@ -8,8 +8,8 @@ const Hero = () => {
         Trusted by 2000+ companies worldwide.
       </h5>
       <h5 className="lg:hidden text-lg font-bold">
-        Trusted by the world's best companies [social proof to build
-        credibility]
+        Trusted by the world&apos;s best companies &#91;social proof to build
+        credibility&#93;
       </h5>
       <div className="flex max-md:flex-col lg:inline-flex px-[8.74px] max-md:py-4 max-md:gap-4 gap-[19.12px]">
         <Image
